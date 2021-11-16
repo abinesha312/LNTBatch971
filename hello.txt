@@ -1,3 +1,4 @@
 today is Tuesday
 month is november
+day is 14
 year is 2021
